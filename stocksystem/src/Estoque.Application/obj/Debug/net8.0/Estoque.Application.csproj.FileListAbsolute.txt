@@ -1,0 +1,15 @@
+D:\Exercicio_Pretico\stocksystem\src\Estoque.Application\bin\Debug\net8.0\Estoque.Application.deps.json
+D:\Exercicio_Pretico\stocksystem\src\Estoque.Application\bin\Debug\net8.0\Estoque.Application.dll
+D:\Exercicio_Pretico\stocksystem\src\Estoque.Application\bin\Debug\net8.0\Estoque.Application.pdb
+D:\Exercicio_Pretico\stocksystem\src\Estoque.Application\bin\Debug\net8.0\Estoque.Domain.dll
+D:\Exercicio_Pretico\stocksystem\src\Estoque.Application\bin\Debug\net8.0\Estoque.Domain.pdb
+D:\Exercicio_Pretico\stocksystem\src\Estoque.Application\obj\Debug\net8.0\Estoque.Application.csproj.AssemblyReference.cache
+D:\Exercicio_Pretico\stocksystem\src\Estoque.Application\obj\Debug\net8.0\Estoque.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exercicio_Pretico\stocksystem\src\Estoque.Application\obj\Debug\net8.0\Estoque.Application.AssemblyInfoInputs.cache
+D:\Exercicio_Pretico\stocksystem\src\Estoque.Application\obj\Debug\net8.0\Estoque.Application.AssemblyInfo.cs
+D:\Exercicio_Pretico\stocksystem\src\Estoque.Application\obj\Debug\net8.0\Estoque.Application.csproj.CoreCompileInputs.cache
+D:\Exercicio_Pretico\stocksystem\src\Estoque.Application\obj\Debug\net8.0\Estoque..2668D291.Up2Date
+D:\Exercicio_Pretico\stocksystem\src\Estoque.Application\obj\Debug\net8.0\Estoque.Application.dll
+D:\Exercicio_Pretico\stocksystem\src\Estoque.Application\obj\Debug\net8.0\refint\Estoque.Application.dll
+D:\Exercicio_Pretico\stocksystem\src\Estoque.Application\obj\Debug\net8.0\Estoque.Application.pdb
+D:\Exercicio_Pretico\stocksystem\src\Estoque.Application\obj\Debug\net8.0\ref\Estoque.Application.dll

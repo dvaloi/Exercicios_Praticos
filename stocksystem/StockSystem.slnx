@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Estoque.Api/Estoque.Api.csproj" />
+    <Project Path="src/Estoque.Application/Estoque.Application.csproj" />
+    <Project Path="src/Estoque.Domain/Estoque.Domain.csproj" />
+    <Project Path="src/Estoque.Infra/Estoque.Infra.csproj" />
+  </Folder>
+</Solution>
