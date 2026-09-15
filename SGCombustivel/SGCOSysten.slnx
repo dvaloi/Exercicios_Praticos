@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SGCombustivel.Api/SGCombustivel.Api.csproj" />
+    <Project Path="src/SGCombustivel.Application/SGCombustivel.Application.csproj" />
+    <Project Path="src/SGCombustivel.Domain/SGCombustivel.Domain.csproj" />
+    <Project Path="src/SGCombustivel.Infra/SGCombustivel.Infra.csproj" />
+  </Folder>
+</Solution>
